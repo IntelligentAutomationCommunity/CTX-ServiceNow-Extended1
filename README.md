@@ -25,3 +25,5 @@ A subtask that creates a new user in ServiceNow.
 # Installation Instructions
 Download the Studio Package file and Import it into your Cortex Environment.
 Don't forget to apply rights using the Studio Authorization module.
+
+:thumbsup: Success! :wink:
