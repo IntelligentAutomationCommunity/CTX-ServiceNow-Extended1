@@ -1,4 +1,4 @@
-# CTX-ServiceNow-Extended1
+# CTX-ServiceNow-Extended
 Additional subtasks to the managed *CTX-ServiceNow* package from the managed Cortex Community
 
 The additional subtasks are:
